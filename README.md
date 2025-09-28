@@ -20,6 +20,8 @@ A personal portfolio website built using **HTML, CSS, JavaScript, and jQuery** t
 - jQuery  
 
 ---
+## 🌐 Live Demo
+Check out the live version here: [Portfolio Link]([https://your-portfolio-link.com](https://portfolio-zub8.vercel.app/))
 
 ## 📂 Installation / Usage  
 To run this project locally:  
@@ -30,6 +32,5 @@ git clone https://github.com/Teja-1123/portfolio.git
 
 # Open the index.html file in your browser
 
-## 🌐 Live Demo
-Check out the live version here: [Portfolio Link]([https://your-portfolio-link.com](https://portfolio-zub8.vercel.app/))
+
 
