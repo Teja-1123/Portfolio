@@ -21,7 +21,7 @@ A personal portfolio website built using **HTML, CSS, JavaScript, and jQuery** t
 
 ---
 ## 🌐 Live Demo
-Check out the live version here: [Portfolio Link]([https://your-portfolio-link.com](https://portfolio-zub8.vercel.app/))
+Check out the live version here: [Portfolio Link](https://portfolio-zub8.vercel.app/)
 
 ## 📂 Installation / Usage  
 To run this project locally:  
