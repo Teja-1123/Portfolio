@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Book Recommendation System",
+    "desc": "A hybrid book recommendation system that combines collaborative filtering, matrix factorization, and deep learning techniques to provide personalized book suggestions. It analyzes user preferences and past behavior to recommend relevant books.",
+    "technologies": ["Python", "TensorFlow", "Pandas", "NumPy", "Flask", "HTML", "CSS", "JavaScript"],
+    "image": "images/BOOK _recomendation.webp",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Teja-1123",
+      "code": "https://github.com/Teja-1123"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A responsive and interactive personal portfolio website to showcase projects, skills, and education. Features smooth scrolling, modals for projects, and dynamic skill bars.",
+    "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "ScrollReveal"],
+    "image": "images/Portfolio.png",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Teja-1123",
+      "code": "https://github.com/Teja-1123"
+    }
+  },
+  {
+    "name": "Automated Exam Evaluation System",
+    "desc": "A web app to automatically evaluate exam papers. Converts uploaded papers to text, compares with AI-generated answers, allocates marks, and provides feedback on errors.",
+    "technologies": ["Python", "Flask", "AI Models", "HTML", "CSS", "JavaScript"],
+    "image": "images/AutoAnswerSheetEvalution.webp",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Teja-1123",
+      "code": "https://github.com/Teja-1123"
+    }
+  },
+  {
+    "name": "Recipe Meal Planner",
+    "desc": "A web app that helps users plan meals, discover recipes, and generate shopping lists. Users can filter by diet, ingredients, and cooking time. Includes bookmarking and reminders.",
+    "technologies": ["React", "Node.js", "Express", "Firebase", "HTML", "CSS", "JavaScript"],
+    "image": "images/Recipe_meal_planner.avif",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Teja-1123",
+      "code": "https://github.com/Teja-1123"
+    }
+  }
+]
